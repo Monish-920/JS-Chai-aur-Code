@@ -15,12 +15,17 @@ console.log(booleanIsLoggedIn);
 
 let loggedIn = false
 
-let valueInNumber = Number(loggedIn)
+//let valueInNumber = Number(loggedIn)
 console.log(typeof valueInNumber)
 console.log(valueInNumber)
 
 
 let value = ""
 
-let valueInNumber = Number(value)
+//let valueInNumber = Number(value)
 console.log(typeof value);
+
+// 1 => true; 0 => false;
+// "" => false ;
+// "Monish" => true
+
